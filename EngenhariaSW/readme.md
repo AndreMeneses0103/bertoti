@@ -24,4 +24,4 @@ O texto mostra que com o Google, as vezes dizemos que a engenharia de software �
 
 ## Exemplo de sistemas que se sobressaem por requisitos
 
-O sistema operacional para dispositivos moveis IOS se sobressai em relação ao Android, pois seus reqisitos funcionam melhor. Diferente do Android, que foi desenvolvido majoritariamente em Java e é open source, o IOS foi planejado e desenvolvido de forma precisa, com diversas criptografias e funcionalidades exclusivas, tornando assim mais veloz, acessivei e seguro.
+O sistema operacional para dispositivos moveis IOS se sobressai em relação ao Android, pois seus requisitos funcionam melhor. Diferente do Android, que foi desenvolvido majoritariamente em Java e é open source, o IOS foi planejado e desenvolvido de forma precisa, com diversas criptografias e funcionalidades exclusivas, tornando assim mais veloz, acessivei e seguro.
