@@ -60,5 +60,7 @@ O sistema operacional para dispositivos moveis IOS se sobressai em relação ao 
 
 # DIAGRAMA CASO DE USO
 
+## Gerenciamento de Escola
+
 ![DiagramaES](https://github.com/AndreMeneses0103/bertoti/assets/89109574/50869837-9688-414b-8c11-e278791ca3fa)
 
