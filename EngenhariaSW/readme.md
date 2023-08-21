@@ -60,5 +60,5 @@ O sistema operacional para dispositivos moveis IOS se sobressai em relação ao 
 
 # DIAGRAMA CASO DE USO
 
-![DiagramaES drawio](https://github.com/AndreMeneses0103/bertoti/assets/89109574/b64edf92-2a03-44dd-9b02-a3286f42efce)
+![DiagramaES drawio(1)](https://github.com/AndreMeneses0103/bertoti/assets/89109574/e0ce639f-096c-459b-8442-eed387bd3bd8)
 
