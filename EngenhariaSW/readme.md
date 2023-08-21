@@ -41,11 +41,24 @@ O sistema operacional para dispositivos moveis IOS se sobressai em relação ao 
    - Erro:
    - Acerto: Em sites de compras online, o catálogo de categorias localizado no início traz conforto ao usuário que tem um produto específico em mente, pois ele acessará as opções de forma simples e rápida.
 5. Prevenção de erros
-   - Erro:
-   - Acerto: Em cadastros de sistemas, o bloqueio para realizar a ação caso um dado não seja preenchido, previne que erros ocorram no sistema.
+   - Erro: 
+   - Acerto: Em cadastros nos sites de lojas online, o bloqueio para realizar a ação caso um dado não seja preenchido, previne que erros ocorram no sistema.
 6.a
 7. Flexibilidade e eficiencia no uso
-8. Design Minimalista
-9. Ajuda aos usuarios para recognizar, diagnosticar e recuperar de erros
-10. Ajuda e Documentação
+   - Erro: 
+   - Acerto: Atalhos no teclado no Visual Code facilitam a agilidade no uso
+9. Design Minimalista
+    - Erro: 
+    - Acerto: Sistemas do Google não possuem muitas informações de uma vez, facilitando a experiencia do usuario
+11. Ajuda aos usuarios para recognizar, diagnosticar e recuperar de erros
+    - Erro: 
+    - Acerto: 
+13. Ajuda e Documentação
+    - Erro:
+    - Acerto: 
+
+
+# DIAGRAMA CASO DE USO
+
+![DiagramaES drawio](https://github.com/AndreMeneses0103/bertoti/assets/89109574/b64edf92-2a03-44dd-9b02-a3286f42efce)
 
