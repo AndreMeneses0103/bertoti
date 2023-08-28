@@ -63,3 +63,8 @@ O sistema operacional para dispositivos moveis IOS se sobressai em relação ao 
 ## Gerenciamento de Escola
 
 ![Diagrama drawio](https://github.com/AndreMeneses0103/bertoti/assets/89109574/a5274d11-2000-4bc5-8501-7ef698b09057)
+
+
+# 7 - DIAGRAMA DE CLASSE
+
+![Escola](https://github.com/AndreMeneses0103/bertoti/assets/89109574/1e35b3a8-2326-446b-8be5-9e06ec6ab32c)
