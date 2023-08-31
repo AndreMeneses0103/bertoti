@@ -34,28 +34,35 @@ O sistema operacional para dispositivos moveis IOS se sobressai em relação ao 
 2. Ligação entre o mundo real e o sistema
    - Erro: Erros do sistema informado diretamente ao usuário, sem tratamento, gerará confusão.
    - Acerto: A implementação de diferentes línguas trarão um conforto maior para alguns usuários, que não precisarão traduzir para entender.
+     
 3. Controle do usuário e liberdade
-   - Erro:
+   - Erro: Aplicativos que demandam de diversas decisôes, a falta de histórico das escolhas pode acabar frustando o usuário, como por exemplo, em aplicativos de edição de fotos, que possuem muitos filtros, e sem o histórico, o usuário esquece quais opções ele usou.
    - Acerto: O botão de cancelar com uma boa visibilidade trará ao usuário a liberdade de tomar a decisão de desfazer as ações.
+     
 4. Conscistencia e estandarte
-   - Erro:
+   - Erro: Atualizações forçadas podem desagradar o usuário, que necessita utilizar o software no momento exato.
    - Acerto: Em sites de compras online, o catálogo de categorias localizado no início traz conforto ao usuário que tem um produto específico em mente, pois ele acessará as opções de forma simples e rápida.
+     
 5. Prevenção de erros
-   - Erro: 
+   - Erro: Uma interface confusa em um software pode confundir o usuário e levar ele a cometer erros.
    - Acerto: Em cadastros nos sites de lojas online, o bloqueio para realizar a ação caso um dado não seja preenchido, previne que erros ocorram no sistema.
+     
 6.a
 7. Flexibilidade e eficiencia no uso
-   - Erro: 
+   - Erro: A falta de um tutorial do uso de um software para um usuário novo prejudica a eficiencia do uso.
    - Acerto: Atalhos no teclado no Visual Code facilitam a agilidade no uso
+     
 9. Design Minimalista
-    - Erro: 
+    - Erro: Em um site de compras online, a quantidade exagerada de informações podem acabar desestimulando o usuário.
     - Acerto: Sistemas do Google não possuem muitas informações de uma vez, facilitando a experiencia do usuario
+      
 11. Ajuda aos usuarios para recognizar, diagnosticar e recuperar de erros
-    - Erro: 
-    - Acerto: 
+    - Erro: Oferecer apenas a opção de contatar os administradores do sistema quando um erro ocorrer, pois nem sempre o usuário terá tempo para retorner um feedback do erro.
+    - Acerto: Oferecer um botão para o usuário voltar a tela inicial quando algum erro ocorrer no sistema.
+      
 13. Ajuda e Documentação
-    - Erro:
-    - Acerto: 
+    - Erro: Em um software complexo, a falta da documentação não ajudará a sanar as duvidas que o usuário terá.
+    - Acerto: A existência de documentações e ajuda traz confiabilidade do usuário ao sistema.
 
 
 # 6 - DIAGRAMA CASO DE USO
