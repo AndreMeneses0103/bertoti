@@ -1,36 +1,45 @@
-package org.example;
-
 import java.util.LinkedList;
 import java.util.List;
 
 public class Escola {
-    private List<Nota> notas = new LinkedList<Nota>();
 
-    public void adicionarNota(Nota nota){
-        notas.add(nota);
+    private List<Materia> materias = new LinkedList<Materia>();
+
+    public void adicionarMateria(Materia materia){
+        this.materias.add(materia);
     }
 
-    public List<Nota> consultarNotaPorMateria(String materia){
-        List<Nota> notasEncontradas = new LinkedList<Nota>();
-        for(Nota nota:notas){
-            if(nota.getMateria().equals(materia)){
-                notasEncontradas.add(nota);
+    public List<Materia> consultarMateriaPorProf(String professor){
+        List<Materia> materiasSelecionadas = new LinkedList<Materia>();
+        for(Materia materia : materias){
+            if(materia.getProfessor().equals(professor)){
+                materiasSelecionadas.add(materia);
             }
         }
-        return notasEncontradas;
+        return materiasSelecionadas;
     }
 
-    public List<Nota> consultarNotaPorAluno(String aluno){
-        List<Nota> notasEncontradas = new LinkedList<Nota>();
-        for(Nota nota:notas){
-            if(nota.getAluno().equals(aluno)){
-                notasEncontradas.add(nota);
+    public List<Materia> consultarMateriaPorNome(String nome_materia){
+        List<Materia> materiasSelecionadas = new LinkedList<Materia>();
+        for(Materia materia : materias){
+            if(materia.getMateria().equals(nome_materia)){
+                materiasSelecionadas.add(materia);
             }
         }
-        return notasEncontradas;
+        return materiasSelecionadas;
     }
 
-    public List<Nota> getNotas(){
-        return notas;
+    public List<Materia> consultarMateriaPorId(Integer id){
+        List<Materia> materiasSelecionadas = new LinkedList<Materia>();
+        for(Materia materia : materias){
+            if(materia.getId().equals(id)){
+                materiasSelecionadas.add(materia);
+            }
+        }
+        return materiasSelecionadas;
+    }
+
+    public List<Materia> getMaterias(){
+        return this.materias;
     }
 }
