@@ -20,7 +20,7 @@ O texto mostra que com o Google, as vezes dizemos que a engenharia de software �
 # *2.1 - Exemplos de Trade-Offs*
   1. Ao planejar o desenvolvimento de um aplicativo, desenvolver em uma tecnologia como flutter, resultará numa aplicação para ambos os sistemas IOS e Android, porém nos dois pode apresentar problemas, diferente de uma tecnologia voltada a um só sistema, como o Kotlin (Android).
   2. Utilizar sistemas mais simples para desenvolver, pode acarretar num problema de quantidade de usuarios ao mesmo tempo na aplicacao.
-  3. O sistema operacional Linux é mais completo e personalizavel, porém sua complexidade para utilizar, afasta sua popularidade para leigos em tecnologia.
+  3. O sistema operacional Linux é mais completo e personalizavel, porém sua complexidade para utilizar, afasta sua popularidade para leigos em tecnologia, enquanto o Windows é mais lúdico e simples, indicado para aqueles que apenas desejam utilizar programas sem complicações.
 
 # *2.2 - Exemplo de sistemas que se sobressaem por requisitos não funcionais*
 O sistema operacional para dispositivos moveis IOS se sobressai em relação ao Android, pois seus requisitos funcionam melhor. Diferente do Android, que foi desenvolvido majoritariamente em Java e é open source, o IOS foi planejado e desenvolvido de forma precisa, com diversas criptografias e funcionalidades exclusivas, tornando assim mais veloz, acessivei e seguro.
@@ -133,7 +133,7 @@ O sistema operacional para dispositivos moveis IOS se sobressai em relação ao 
 
 ## Gerenciamento de Escola
 
-![Diagrama drawio](https://github.com/AndreMeneses0103/bertoti/assets/89109574/a5274d11-2000-4bc5-8501-7ef698b09057)
+![DiagramaCasoUsoCorreto](https://github.com/AndreMeneses0103/bertoti/assets/89109574/5c022cbe-1348-4993-8583-a9772f6bd161)
 
 
 # *5 - DIAGRAMA DE CLASSE*
