@@ -1,10 +1,10 @@
-# *Laboratório de Desenvolvimento em BD III* 📄
+# *Laboratório de Desenvolvimento em BD III* 💾
 
 Nesta disciplina, exploramos o funcionamento de uma API REST, com ênfase nos métodos GET, POST, PUT e DELETE. Para consolidar o aprendizado, foi proposto o desenvolvimento de uma API simulando um caso real. A partir disso, criei um sistema de gerenciamento de estoque de produtos, contemplando nomes, quantidades e identificadores.
 
 ****
 
-## POSTMAN 💬
+## POSTMAN 👨‍🚀
 
 Utilizando a ferramenta Postman, realizei diversas requisições, registrando e analisando os dados enviados e recebidos, demonstrados abaixo:
 
@@ -30,7 +30,7 @@ Utilizando a ferramenta Postman, realizei diversas requisições, registrando e 
 
 ****
 
-## Front-End
+## Front-End 🖥
 
 Posteriormente, foi proposta a criação de uma interface visual para a API. Utilizando HTML, CSS e JavaScript, desenvolvi uma página web, demonstrada abaixo:
 
