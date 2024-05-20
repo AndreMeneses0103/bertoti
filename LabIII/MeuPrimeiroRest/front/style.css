@@ -10,6 +10,10 @@ body{
     background-color: #0d1321ff;
 }
 
+*{
+    font-family: "Lato", sans-serif;
+}
+
 .title{
     color: #e0e0e0;
     font-family: "Lato", sans-serif;
@@ -17,13 +21,13 @@ body{
     font-style: normal;
     display: grid;
     justify-items: center;
-    margin: 10vh;
+    margin: 20px;
 }
 
 .table_title{
     color: #e0e0e0;
     font-family: "Lato", sans-serif;
-    font-weight: 100;
+    font-weight: 500;
     font-style: normal;
     font-size: larger;
     padding: 1vw;
@@ -60,6 +64,22 @@ table{
     text-align: left;
 }
 
+table thead, table tbody tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+
+#tb{
+    display: block;
+    max-height: 350px;
+    overflow-y: auto;
+}
+
+#cell_btns{
+    display: flex;
+}
+
 .itens{
     background-color: #1d2d44ff;
 }
@@ -69,6 +89,7 @@ table{
     font-family: "Lato", sans-serif;
     font-weight: 200;
     font-style: normal;
+    height: 70px;
 }
 
 .row2{
@@ -76,4 +97,94 @@ table{
     font-family: "Lato", sans-serif;
     font-weight: 200;
     font-style: normal;
+    height: 70px;
+}
+
+.space_btns{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0 0 0;
+}
+
+.input_change{
+    outline: none;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+/* Botão básico */
+.button {
+    display: inline-block;
+    padding: 8px 10px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #3498db;
+    border: none;
+    border-radius: 25px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    outline: none;
+    width: 90px;
+}
+
+/* Efeito de hover */
+.button:hover {
+    background-color: #2980b9;
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+    transform: translateY(-2px);
+}
+
+/* Efeito de active */
+.button:active {
+    background-color: #1c5985;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+    transform: translateY(1px);
+}
+
+/* Botão com cores alternativas */
+.button.red {
+    background-color: #e74c3c;
+}
+
+.button.red:hover {
+    background-color: #c0392b;
+}
+
+.button.red:active {
+    background-color: #96281b;
+}
+
+.button.green {
+    background-color: #2ecc71;
+}
+
+.button.green:hover {
+    background-color: #27ae60;
+}
+
+.button.green:active {
+    background-color: #1e8449;
+}
+
+.button.dark-blue {
+    background-color: #1e4872; /* Cor Dark Blue */
+    color: #ffffff; /* Cor do texto */
+}
+
+.button.dark-blue:hover {
+    background-color: #0b1e31; /* Cor Dark Blue mais escura quando hover */
+}
+
+.button.dark-blue:active {
+    background-color: #072642; /* Cor Dark Blue ainda mais escura quando clicado */
+}
+
+#create_btn{
+    width: 180px;
+    height: 80px;
 }

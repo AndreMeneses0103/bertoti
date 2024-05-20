@@ -5,25 +5,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Produtos</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
 </head>
 <body>
     <h1 class="title" id="title">Produtos</h1>
     <table id="tbl">
-        <tbody id="tb">
+        <thead id="head">
             <tr class="itens">
                 <th class="table_title" id="table_title_red_left">
-                    Row
+                    Índice
                 </th>
                 <th class="table_title">
-                    Name
+                    Nome
                 </th>
                 <th class="table_title">
-                    Quantity
+                    Quantidade
                 </th>
-                <th class="table_title" id="table_title_red_right">
+                <th class="table_title">
                     Id
                 </th>
+                <th class="table_title" id="table_title_red_right">
+                    Ações
+                </th>
             </tr>
+        </thead>
+        <tbody id="tb">
             <!-- <tr class="row">
                 <th class="table_item">
                     Teste1
@@ -54,11 +62,14 @@
             </tr> -->
         </tbody>
         <span class="final" id="final">
-            <th class="table_final" colspan="4">
+            <th class="table_final" colspan="5">
                 
             </th>
         </span>
     </table>
+    <div class="space_btns">
+        <button class="button" id="create_btn">Novo Produto</button>
+    </div>
     <!-- <button id="btn">Click</button> -->
     <script src="script.js"></script>
 </body>

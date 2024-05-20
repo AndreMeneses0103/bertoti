@@ -21,8 +21,8 @@ public class SburRestDemoApplication {
 }
 
 @RestController
-    @RequestMapping("/products")
-    @CrossOrigin(origins = "*", methods = {RequestMethod.GET, RequestMethod.POST, RequestMethod.PUT, RequestMethod.DELETE})
+@RequestMapping("/products")
+@CrossOrigin(origins = "*", methods = {RequestMethod.GET, RequestMethod.POST, RequestMethod.PUT, RequestMethod.DELETE})
 class RestApiDemoController {
 	private List<Produto> produtos = new ArrayList<>();
 
@@ -53,6 +53,9 @@ class RestApiDemoController {
 
 	@PostMapping
 	Produto postProduct(@RequestBody Produto prod) {
+		if (prod.getId() == null || prod.getId().isEmpty()) {
+			prod.setId(UUID.randomUUID().toString());
+		}
 		produtos.add(prod);
 		return prod;
 	}
@@ -64,6 +67,7 @@ class RestApiDemoController {
 		for (Produto p: produtos) {
 			if (p.getId().equals(id)) {
 				productIndex = produtos.indexOf(p);
+				prod.setId(id);
 				produtos.set(productIndex, prod);
 			}
 		}
@@ -84,6 +88,8 @@ class Produto {
 	private String name;
 	private Integer quantity;
 
+	public Produto() {
+	}
 	public Produto(String name, String id, Integer quantity) {
 		this.id = id;
 		this.name = name;
@@ -91,12 +97,16 @@ class Produto {
 	}
 
 	public Produto(String name) {
-		this(name, UUID.randomUUID().toString(), 0);
+		this.name = name;
+		this.id = UUID.randomUUID().toString();
+		this.quantity = 0;
 	}
 
-    public Produto(String name, Integer quantity) {
-        this(name, UUID.randomUUID().toString(), quantity);
-    }
+	public Produto(String name, Integer quantity) {
+		this.name = name;
+		this.id = UUID.randomUUID().toString();
+		this.quantity = quantity;
+	}
 
 	public String getId() {
 		return id;
