@@ -29,8 +29,14 @@ Apresente suas contribuições no projeto. Foque nas funcionalidades em que voc�
 Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+- Comunicação
+  Como Product Owner do projeto, utilizei e aprimorei minhas habilidades de comunicacão, que foram essenciais para o contato     com o cliente. Adaptando-se com as preferências do cliente, negociei funcionalidades, apresentações, datas, testes,            protótipo de telas e especificações. Como desenvolvedor, a comunicação foi crucial para entrar em consenso com os              integrantes do grupo, fornecendo feedbacks, organizando tarefas e trabalhando em equipe.
+  
+- Organização
+  Como Product Owner do projeto, coloquei em prática a minha habilidade de organização, entrando em contato com o cliente e      ajustando as funcionalidades do projeto, divididas em Sprints, importâncias, prioridades, Épicos e User Stories. Como          desenvolvedor, pratiquei a organização nos códigos, aplicando as práticas de Clean Code, SOLID, e no compromisso de entregar   as tarefas no tempo certo.
 
+- Adaptabilidade
+  Como Product Owner do projeto, precisei constantemente de adaptação. (continuar)
 ### Em 2022-1
 Mesmo formato
 
