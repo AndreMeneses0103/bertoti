@@ -6,10 +6,6 @@ public class Viajante {
     }
 
     public void viajar(){
-        if(vg!= null){
-            vg.viajar();
-        }else{
-            System.out.println("Selecione onde vai viajar");
-        }
+        vg.viajar();
     }
 }
