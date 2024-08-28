@@ -1,12 +1,12 @@
-# Coloque seu nome aqui
+# André Filipe Meneses
 
 ## Introdução
 
 Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
 
 ## Contatos
-* [GIT](https://www.git.com)
-* [LinkedIn](https://www.linkedin.com)
+* [GIT](https://github.com/AndreMeneses0103)
+* [LinkedIn](https://www.linkedin.com/in/andre-meneses-dev/)
 
 ## Meus Principais Conhecimentos
 Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
@@ -27,6 +27,9 @@ Apresente suas contribuições no projeto. Foque nas funcionalidades em que voc�
 
 #### Hard Skills
 Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+
+- Javascript
+  Neste projeto, utilizei bastante Javacript, tendo em vista que tive foco no Front-End. Com o JS, criei funcões para manipular o DOM, utilizei de eventos para adicionar interatividade do usuário com elementos como botões, caixas de textos, etc. 
 
 #### Soft Skills
 - Comunicação
