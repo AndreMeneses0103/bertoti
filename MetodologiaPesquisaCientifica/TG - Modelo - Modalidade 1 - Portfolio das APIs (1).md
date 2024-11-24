@@ -2,14 +2,16 @@
 
 ## Introdução
 
-Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!
+Sou estudante de Banco de Dados na Fatec Prof. Jessen Vidal, em São José dos Campos, e técnico em informática pelos colégios Univap. Atualmente, sou desenvolvedor fullstack júnior e, ao longo dos meus projetos acadêmicos e profissionais, busco constantemente aprender e enfrentar desafios inovadores, com o objetivo de construir uma carreira sólida na área de tecnologia.
 
 ## Contatos
 * [GIT](https://github.com/AndreMeneses0103)
 * [LinkedIn](https://www.linkedin.com/in/andre-meneses-dev/)
 
 ## Meus Principais Conhecimentos
-Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira.
+Tenho conhecimentos em linguagens de programação como Java, JavaScript, Python, PHP, SQL (MySQL, PostgreSQL) e NoSQL (Redis, MongoDB). Minha experiência em desenvolvimento full stack me permite criar aplicações web com foco em design de sistemas, desenvolvimento de interfaces visuais e integração com APIs. Além disso, sou capaz de gerenciar e otimizar bancos de dados relacionais e NoSQL para garantir eficiência e escalabilidade.
+Sou certificado em Fundamentos do Scrum e tenho experiência em metodologias ágeis, atuando na organização de tarefas e entregas de forma eficiente. Tenho familiaridade com frameworks como Spring Boot, Express.js e Laravel, além de ferramentas como Git e Docker, que utilizo para otimizar o desenvolvimento e a entrega de soluções.
+Busco continuar desenvolvendo meus conhecimentos, com foco em criar soluções inovadoras e eficientes, sempre alinhadas às necessidades do mercado e com a melhor experiência para o usuário.
 
 
 ## Meus Projetos
