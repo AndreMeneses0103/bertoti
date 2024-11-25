@@ -39,15 +39,9 @@ A configuração manual das fontes de dados era um gargalo no processo de opera�
 Foi criada uma interface inovadora e automatizada para configuração das fontes de dados, eliminando a necessidade de processos manuais. As principais entregas incluíram:
 
 - **Sistema de Cadastro:** Interfaces para registro de clientes, usuários e soluções.
-  ![WhatsApp Image 2024-11-25 at 7 26 13 PM](https://github.com/user-attachments/assets/237cb4a7-03ce-4759-a3f5-8c20a6af7d19)
-
 - **Upload e Visualização de Dados:** Ferramenta para importar arquivos CSV ou Excel, permitindo visualizar e estruturar os dados.
 - **Dashboard Administrativo:** Painel com métricas quantitativas e análises para gestores.
-![WhatsApp Image 2024-11-25 at 7 25 38 PM](https://github.com/user-attachments/assets/d890e4c2-79b3-4ebc-a3ea-2871fd484a83)
-
 - **Mapeamento e Regras de Negócio:** Funcionalidades que automatizam a associação de campos-chave e a aplicação de regras específicas.
-![WhatsApp Image 2024-11-25 at 7 28 01 PM](https://github.com/user-attachments/assets/3d6209ba-e891-495a-a4aa-94225bb29efa)
-
 - **Segurança e Auditoria:** Implementação de autenticação, controle de acesso e rastreabilidade de ações no sistema.
 
 Os resultados foram notáveis, com maior velocidade na implantação de soluções e menor dependência de técnicos especializados.
@@ -75,21 +69,43 @@ A interação com a **Dom Rock** foi conduzida principalmente pelo **Slack**, ga
 Atuei amplamente na criação, aprimoramento e padronização da interface do sistema, abordando diversos aspectos:
 
 1. **Desenvolvimento de Telas e Funcionalidades:**
-   - Criação de telas interativas para cadastro de clientes, usuários e soluções.
-   - Implementação de funcionalidades como upload de arquivos CSV e visualização dos dados carregados.
-   - Integração das interfaces com APIs para comunicação eficiente entre front-end e back-end.
+      <details>
+        <summary>Detalhes</summary>
+        - Criação de telas interativas para cadastro de clientes, usuários e soluções.
+        - Implementação de funcionalidades como upload de arquivos CSV e visualização dos dados carregados.
+        - Integração das interfaces com APIs para comunicação eficiente entre front-end e back-end.
+        <br/>
+        <img src="https://github.com/user-attachments/assets/237cb4a7-03ce-4759-a3f5-8c20a6af7d19" alt="Tela interativa de cadastro" />
+      </details>
+
 
 2. **Conexão com APIs:**
-   - Configurei chamadas para os endpoints do back-end, permitindo o envio e recebimento dinâmico de dados.
-   - Garanti uma experiência fluida com sincronização precisa entre as ações do usuário e os dados exibidos.
+      <details>
+       <summary>Detalhes</summary>
+       - Configurei chamadas para os endpoints do back-end, permitindo o envio e recebimento dinâmico de dados.
+       - Garanti uma experiência fluida com sincronização precisa entre as ações do usuário e os dados exibidos.
+       <img src="https://github.com/user-attachments/assets/bd5aebfc-fef7-4a09-91a1-31fea353530e" alt="Conexão com API" />
+      
+      </details>
 
 3. **Padronização de Estilos:**
-   - Uniformizei as interfaces, criando um padrão visual coeso.
-   - Centralizei estilos em arquivos CSS reutilizáveis, reduzindo duplicação e facilitando a manutenção do código.
+   <details>
+      <summary>Detalhes</summary>
+      - Uniformizei as interfaces, criando um padrão visual coeso.
+      - Centralizei estilos em arquivos CSS reutilizáveis, reduzindo duplicação e facilitando a manutenção do código.
+      <br/>
+      <img src="https://github.com/user-attachments/assets/7860c69f-5c90-471c-9dfd-34e580e41e95" alt="Imagem de interface padronizada" />
+  </details>
 
 ##### **Comunicação com o Cliente**
-- Realizei levantamento de requisitos e priorização com o cliente via Slack.
-- Propus ajustes e melhorias com base no feedback, garantindo alinhamento de expectativas.
+  <details>
+    <summary>Detalhes</summary>
+    - Realizei levantamento de requisitos e priorização com o cliente via Slack.
+    - Propus ajustes e melhorias com base no feedback, garantindo alinhamento de expectativas.
+    <br/>
+    <img src="https://github.com/user-attachments/assets/346bedb7-c5ba-4846-82c6-f506749b46e0" alt="Imagem do levantamento de requisitos"/>
+  </details>
+
 
 ---
 
