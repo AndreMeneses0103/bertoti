@@ -29,6 +29,9 @@ Busco continuar desenvolvendo meus conhecimentos, com foco em criar soluções i
 
 Este projeto foi desenvolvido em colaboração com a **Dom Rock**, uma empresa especializada em soluções de processamento de dados em pipeline. Sua tecnologia é amplamente utilizada para processar grandes volumes de dados, gerar insights automatizados e auxiliar a tomada de decisões estratégicas.
 
+![image](https://github.com/user-attachments/assets/f04147f3-5d4e-4455-9837-d0b7ecc3e73a)
+
+
 #### **Desafio**
 A configuração manual das fontes de dados era um gargalo no processo de operação da plataforma, demandando muito tempo e expertise técnica, comprometendo a agilidade no atendimento aos clientes.
 
@@ -36,9 +39,15 @@ A configuração manual das fontes de dados era um gargalo no processo de opera�
 Foi criada uma interface inovadora e automatizada para configuração das fontes de dados, eliminando a necessidade de processos manuais. As principais entregas incluíram:
 
 - **Sistema de Cadastro:** Interfaces para registro de clientes, usuários e soluções.
+  ![WhatsApp Image 2024-11-25 at 7 26 13 PM](https://github.com/user-attachments/assets/237cb4a7-03ce-4759-a3f5-8c20a6af7d19)
+
 - **Upload e Visualização de Dados:** Ferramenta para importar arquivos CSV ou Excel, permitindo visualizar e estruturar os dados.
 - **Dashboard Administrativo:** Painel com métricas quantitativas e análises para gestores.
+![WhatsApp Image 2024-11-25 at 7 25 38 PM](https://github.com/user-attachments/assets/d890e4c2-79b3-4ebc-a3ea-2871fd484a83)
+
 - **Mapeamento e Regras de Negócio:** Funcionalidades que automatizam a associação de campos-chave e a aplicação de regras específicas.
+![WhatsApp Image 2024-11-25 at 7 28 01 PM](https://github.com/user-attachments/assets/3d6209ba-e891-495a-a4aa-94225bb29efa)
+
 - **Segurança e Auditoria:** Implementação de autenticação, controle de acesso e rastreabilidade de ações no sistema.
 
 Os resultados foram notáveis, com maior velocidade na implantação de soluções e menor dependência de técnicos especializados.
